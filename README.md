@@ -1,6 +1,7 @@
 ### 인공지능추천시스템 airs개발기_모델링과시스템
-<https://www.slideshare.net/deview/airs-80886207>
+[link](https://www.slideshare.net/deview/airs-80886207){: target="_blank"}
 ###### 인공지능추천시스템 airs개발기_모델링과시스템
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 ***
 ### naver-deview-2017.md
 <https://gist.github.com/ksseono/ccca68ffec9ec6bf655e6d12ce105450>
